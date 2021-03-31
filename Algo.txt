@@ -5,3 +5,5 @@ cook
 eat
 watch tv
 fall asleep
+wake up
+brush teeth
