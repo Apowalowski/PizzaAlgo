@@ -3,3 +3,5 @@ roll dough
 put on cheese
 cook
 eat
+watch tv
+fall asleep
